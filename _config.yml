@@ -1,6 +1,7 @@
 title: Résumé
 baseurl: ""
 theme: "jekyll-theme-minimal-resume"
+remote_theme: harrisonfarah/resume
 exclude:
   - README.md
   - "README_zh-CN.md"
