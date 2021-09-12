@@ -83,42 +83,4 @@
     </div>
   </section>
 
-  <section id="projects">
-    <div class="section-title">
-      Projects
-    </div>
-    <div class="section-content">
-      {% for project in config.resume.projects %}
-      <div class="block">
-        <div class="block-title">
-          {{ project.name }}
-        </div>
-        <div class="block-subtitle">
-          {{ project.contribution }}
-        </div>
-        <div class="block-content">
-          {{ project.description }}
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </section>
-
-  <section id="languages">
-    <div class="section-title">
-      Languages
-    </div>
-    <div class="section-content section-flex">
-      {% for language in config.resume.languages %}
-      <div class="block block-square">
-        <div class="block-title">
-          {{ language.name }}
-        </div>
-        <div class="block-content">
-          {{ language.proficiency }}
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-  </section>
 </div>
