@@ -12,5 +12,3 @@ exclude:
   - /screenshots
   - /fixtures
   - Rakefile
-
-theme: jekyll-theme-cayman
