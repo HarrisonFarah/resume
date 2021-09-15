@@ -1,6 +1,6 @@
 title: Harrison Farah - Resume
 name: Harrison Farah
-jobtitle: Student
+jobtitle: Student at <a href="https://www.southernct.edu/">Southern Connecticut State University</a>
 contact:
   - icon: fa-envelope
     text: HarrisonFarah.ID@gmail.com
@@ -15,14 +15,14 @@ education:
   - university: <a href="https://www.southernct.edu/">Southern Connecticut State University</a>
     duration: Aug 2021 - Present
     location: Hew Haven, CT 06515
-    major: B.S. Psychology | Data Science Minor
+    major: B.S. Computer Science | Data Science Minor
 skills:
-  - title: Computer Technology
-    items: Desktop Support, Windows 10, Microsoft Office, Social Media, Adobe Photoshop
-  - title: Problem Solving
-    items: Time management, 
+  - title: POS & Computer Savvy
+    items: Desktop Support, Hardware Troubleshooting, Windows 10, Microsoft Office, RecTrac
+  - title: Analytical Thinking
+    items: Mathematics, Programming, Website Development
   - title: Efficient
-    items: Time-management, 
+    items: Time-management, Organizing/Prioritizing, Proactive
 experience:
   - title: Part Time Secretary
     duration: Apr 2016 - Present
