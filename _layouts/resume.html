@@ -27,6 +27,18 @@ layout: default
         </div>
       </header>
 
+      <section id="languages">
+        <div class="section-title">Summary</div>
+        <div class="section-content">
+          {% for lang in site.data.resume.languages %}
+          <div class="block">
+            <div class="block-title">{{ lang.name }}</div>
+            <div class="block-content">{{ lang.proficiency }}</div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
       <section id="education">
         <div class="section-title">
           Education

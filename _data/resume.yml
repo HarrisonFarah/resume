@@ -3,11 +3,14 @@ name: Harrison Farah
 jobtitle: Student at <a href="https://www.southernct.edu/">Southern Connecticut State University</a>
 contact:
   - icon: fa-envelope
-    text: HarrisonFarah.ID@gmail.com
+    text: Email
     link: mailto:HarrisonFarah.ID@gmail.com
   - icon: fa-linkedin
     text: Linkedin
     link: https://www.linkedin.com/in/harrison-farah
+languages:
+     - name: 
+       proficiency: <li>TEST</li> <li>TEST</li>
 education:
   - university: <a href="https://nhs.newtown.k12.ct.us/">Newtown High School</a>
     duration: Aug 2015 - Jun 2019
@@ -17,22 +20,22 @@ education:
     location: Hew Haven, CT 06515
     major: B.S. Computer Science | Data Science Minor
 skills:
-  - title: POS & Computer Savvy
-    items: Desktop Support, Hardware Troubleshooting, Windows 10, Microsoft Office, RecTrac
+  - title: Computer/Technological Competencies 
+    items: Technological Adaptability, Troubleshooting, Windows 10, HTML(Intermediate), Adobe Photoshop, Spreadsheets, Online Communication, Social Media Marketing
   - title: Analytical Thinking
-    items: Mathematics, Programming, Website Development
+    items: Mathematics, Programming, Website Development, Data Entry, General Ledger, 
   - title: Efficient
-    items: Time-management, Organizing/Prioritizing, Proactive
+    items: Time-management, Organizing/Prioritizing, Proactive, Passionate Learner
 experience:
   - title: Part Time Secretary
     duration: Feb 2021 - Present
     company: <a href="https://www.newtown-ct.gov/parks-recreation">Town of Newtown, Department of Parks and Recreation</a>
-    description: Assist customers in a upbeat manner to uphold a positive image of the department. Manage social media to promote programs/events with flyers created on Adobe Photoshop. Organize, automate, and input data through spreadsheets.  
+    description: Assist customers in a upbeat manner to uphold a positive image of the department. Manage social media to promote programs/events with flyers created on Adobe Photoshop. Organize, automate, and input data on spreadsheets.  
   - title: Debt Collector
     duration: Jun 2019 - Sept 2019
     company: <a href="https://easternaccounts.com/">Eastern Account Systems</a>
-    description: Using proper tone and phone etiquette to efficiently process past due payments across the country in a fast work environment.
+    description: Negotiating payments while continuing to build a positive relationship with customers. Performed telephone contact with customers according to guidelines and standards to ensure payment. 
   - title: Crew Member
     duration: April 2016 - Dec 2018
     company: <a href="https://www.dunkindonuts.com/">Dunkin' Donuts</a>
-    description: 
+    description: Responsible for handling debit cards and credit card transactions. Required of Cleaning and wiping down area at all times. Shared product knowledge with customers while making personal recommendations.
