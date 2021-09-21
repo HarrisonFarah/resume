@@ -6,12 +6,8 @@ html {
   width: 100%;
   font-size: 14px; }
 
-img {
-  float: right;
-  border-radius:50%
-}
 body {
- text-align: center;
+  text-align: center;
   width: 100%;
   font-family: "Noto Sans", "Segoe UI", Roboto, Helvetica, "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
   -webkit-font-smoothing: antialiased;

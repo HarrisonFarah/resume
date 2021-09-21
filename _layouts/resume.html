@@ -12,7 +12,6 @@ layout: default
             {{ site.data.resume.jobtitle }}
           </div>
         </div>
-        <img src="https://i.imgur.com/qdW1qTp.png" alt="Avatar" style="width:150px;height:150px;" >
         <div id="contact" class="contact">
           {% for item in site.data.resume.contact %}
           <div class="contact-item">
@@ -61,24 +60,6 @@ layout: default
         </div>
       </section>
 
-      <section id="skills">
-        <div class="section-title">
-          Skills
-        </div>
-        <div class="section-content">
-          {% for skill in site.data.resume.skills %}
-          <div class="block">
-            <div class="block-title">
-              {{ skill.title }}
-            </div>
-            <div class="block-content">
-              {{ skill.items }}
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </section>
-
       <section id="experience">
         <div class="section-title">
           Experience
@@ -99,4 +80,23 @@ layout: default
           {% endfor %}
         </div>
       </section>
+
+      <section id="skills">
+        <div class="section-title">
+          Skills
+        </div>
+        <div class="section-content">
+          {% for skill in site.data.resume.skills %}
+          <div class="block">
+            <div class="block-title">
+              {{ skill.title }}
+            </div>
+            <div class="block-content">
+              {{ skill.items }}
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </section>
+
     </div>
