@@ -6,6 +6,9 @@ html {
   width: 100%;
   font-size: 14px; }
 
+img {
+  border-radius: 50%;
+}
 body {
   text-align: center;
   width: 100%;

@@ -7,10 +7,10 @@ contact:
     link: mailto:HarrisonFarah.ID@gmail.com
   - icon: fa-linkedin
     text: Linkedin
-    link: https://www.linkedin.com/in/harrison-farah
+    link: https://www.linkedin.com/in/harrison-farah 
 languages:
      - name: 
-       proficiency: <li>TEST</li> <li>TEST</li>
+       proficiency: <li>Student eager to learn more skills and take leadership roles when possible</li>
 education:
   - university: <a href="https://nhs.newtown.k12.ct.us/">Newtown High School</a>
     duration: Aug 2015 - Jun 2019
@@ -18,7 +18,7 @@ education:
   - university: <a href="https://www.southernct.edu/">Southern Connecticut State University</a>
     duration: Aug 2021 - Present
     location: Hew Haven, CT 06515
-    major: B.S. Computer Science | Data Science Minor
+    major: B.S. Computer Science | Data Science Minor | President of Schwartz Hall Council
 skills:
   - title: Computer/Technological Competencies 
     items: Technological Adaptability, Troubleshooting, Windows 10, HTML(Intermediate), Adobe Photoshop, Spreadsheets, Online Communication, Social Media Marketing
