@@ -17,8 +17,12 @@ education:
     location: New Haven, CT 06515
     major: Bachelor of Science in Computer Science | Data Science Minor
 experience:
+  - title: IT Help Desk Technician
+    duration: Oct 2021 - Dec 2021
+    company: Southern Connecticut State University
+    description:
   - title: President of Schwartz Hall Council
-    duration: Sep. 2021 - June 2022
+    duration: Sep. 2021 - Dec 2021
     company: New Haven, CT | Residence Life of Southern Connecticut State University
     description: <li>Facilitate Hall Council Executive Board and Body Meetings</li><li>Coordinate and create programs for students to get involved with.</li><li>Oversee committees and delegate responsibilities of hall council's events.</li>
   - title: Secretary
