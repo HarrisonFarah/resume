@@ -19,7 +19,7 @@ education:
   - university: Southern Connecticut State University
     duration: Attended Spring 2021 - Fall 2021
     location: New Haven, CT 06515
-    major: Bachelor of Science in Computer Science
+    major:
 experience:
   - title: IT Help Desk Technician
     duration: Oct 2021 - Dec 2021
